@@ -18,3 +18,4 @@ A Streamlit-based application to upload NCERT PDFs and ask questions in English 
    ```bash
    pip install -r requirements.txt
 streamlit run app.py
+output
